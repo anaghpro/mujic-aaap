@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+.hd{
+    color: gold;
+}
+.wrt{
+    color: rgb(255, 255, 255);
+    font-size:xx-large ;
+}
+canvas{
+  border: 8px dotted maroon ;  
+  box-shadow: 10 15px 0px 0px rgb(70, 106, 136);
+}
+.butn{
+    box-shadow:2px 3px lightslategray;
+    color:midnightblue;
+    font-size: xx-large;
+    height: 50px;
+    width: 100px;
+}
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    background-color:lightsteelblue;
+}
+#volume{
+    background-color: peru;
+}
